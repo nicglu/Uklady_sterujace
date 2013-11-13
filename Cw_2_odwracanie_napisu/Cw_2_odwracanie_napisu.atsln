@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Atmel Studio Solution File, Format Version 11.00
+Project("{18226A42-8477-4023-8AD2-40C49DA407C9}") = "Cw_2_odwracanie_napisu", "Cw_2_odwracanie_napisu\Cw_2_odwracanie_napisu.asmproj", "{FE7232F6-50C2-460D-87BB-2B42F73ED8F4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FE7232F6-50C2-460D-87BB-2B42F73ED8F4}.Debug|AVR.ActiveCfg = Debug|AVR
+		{FE7232F6-50C2-460D-87BB-2B42F73ED8F4}.Debug|AVR.Build.0 = Debug|AVR
+		{FE7232F6-50C2-460D-87BB-2B42F73ED8F4}.Release|AVR.ActiveCfg = Release|AVR
+		{FE7232F6-50C2-460D-87BB-2B42F73ED8F4}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

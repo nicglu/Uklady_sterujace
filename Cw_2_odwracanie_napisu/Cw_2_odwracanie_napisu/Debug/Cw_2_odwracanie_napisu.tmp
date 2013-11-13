@@ -1,0 +1,32 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.52</VERSION>
+ <DEVICE>"ATmega16"</DEVICE>
+ <WORKING_DIR>C:\Users\nicole\Documents\Atmel Studio\6.1\Cw_2_odwracanie_napisu\Cw_2_odwracanie_napisu\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:\Program Files (x86)\Atmel\Atmel Toolchain\AVR Assembler\Native\2.1.39.1005\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\nicole\Documents\Atmel Studio\6.1\Cw_2_odwracanie_napisu\Cw_2_odwracanie_napisu\Cw_2_odwracanie_napisu.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:\Program Files (x86)\Atmel\Atmel Toolchain\AVR Assembler\Native\2.1.39.1005\avrassembler\Include\m16def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\nicole\Documents\Atmel Studio\6.1\Cw_2_odwracanie_napisu\Cw_2_odwracanie_napisu\Debug/Cw_2_odwracanie_napisu.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>Cw_2_odwracanie_napisu.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>Cw_2_odwracanie_napisu.map</FILE>
+  <FILE>Cw_2_odwracanie_napisu.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <NAPIS><FILE>C:\Users\nicole\Documents\Atmel Studio\6.1\Cw_2_odwracanie_napisu\Cw_2_odwracanie_napisu\Cw_2_odwracanie_napisu.asm</FILE><LINE>86</LINE></NAPIS>
+  <PROC><FILE>C:\Users\nicole\Documents\Atmel Studio\6.1\Cw_2_odwracanie_napisu\Cw_2_odwracanie_napisu\Cw_2_odwracanie_napisu.asm</FILE><LINE>24</LINE></PROC>
+  <FINISH><FILE>C:\Users\nicole\Documents\Atmel Studio\6.1\Cw_2_odwracanie_napisu\Cw_2_odwracanie_napisu\Cw_2_odwracanie_napisu.asm</FILE><LINE>83</LINE></FINISH>
+  <LOAD><FILE>C:\Users\nicole\Documents\Atmel Studio\6.1\Cw_2_odwracanie_napisu\Cw_2_odwracanie_napisu\Cw_2_odwracanie_napisu.asm</FILE><LINE>44</LINE></LOAD>
+  <DIV><FILE>C:\Users\nicole\Documents\Atmel Studio\6.1\Cw_2_odwracanie_napisu\Cw_2_odwracanie_napisu\Cw_2_odwracanie_napisu.asm</FILE><LINE>54</LINE></DIV>
+  <STORE><FILE>C:\Users\nicole\Documents\Atmel Studio\6.1\Cw_2_odwracanie_napisu\Cw_2_odwracanie_napisu\Cw_2_odwracanie_napisu.asm</FILE><LINE>58</LINE></STORE>
+  <END><FILE>C:\Users\nicole\Documents\Atmel Studio\6.1\Cw_2_odwracanie_napisu\Cw_2_odwracanie_napisu\Cw_2_odwracanie_napisu.asm</FILE><LINE>70</LINE></END>
+ </LABELS>
+</ASSEMBLER_INFO>
